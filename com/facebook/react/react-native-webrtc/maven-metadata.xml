@@ -3,33 +3,14 @@
   <groupId>com.facebook.react</groupId>
   <artifactId>react-native-webrtc</artifactId>
   <versioning>
-    <release>1.75.3-jitsi-4316428</release>
+    <release>1.75.3-jitsi-4420127</release>
     <versions>
-      <version>1.75.3-jitsi-4255066</version>
-      <version>1.75.3-jitsi-4255919</version>
-      <version>1.75.3-jitsi-4256003</version>
-      <version>1.75.3-jitsi-4256209</version>
-      <version>1.75.3-jitsi-4281778</version>
-      <version>1.75.3-jitsi-4284647</version>
-      <version>1.75.3-jitsi-4290716</version>
-      <version>1.75.3-jitsi-4290826</version>
-      <version>1.75.3-jitsi-4290867</version>
-      <version>1.75.3-jitsi-4290915</version>
-      <version>1.75.3-jitsi-4291090</version>
-      <version>1.75.3-jitsi-4291192</version>
-      <version>1.75.3-jitsi-4299339</version>
-      <version>1.75.3-jitsi-4299402</version>
-      <version>1.75.3-jitsi-4300266</version>
-      <version>1.75.3-jitsi-4308560</version>
-      <version>1.75.3-jitsi-4308611</version>
-      <version>1.75.3-jitsi-4314502</version>
-      <version>1.75.3-jitsi-4314574</version>
-      <version>1.75.3-jitsi-4314809</version>
-      <version>1.75.3-jitsi-4315320</version>
-      <version>1.75.3-jitsi-4316278</version>
-      <version>1.75.3-jitsi-4316350</version>
-      <version>1.75.3-jitsi-4316428</version>
+      <version>1.75.3-jitsi-4419897</version>
+      <version>1.75.3-jitsi-4419977</version>
+      <version>1.75.3-jitsi-4420056</version>
+      <version>1.75.3-jitsi-4420085</version>
+      <version>1.75.3-jitsi-4420127</version>
     </versions>
-    <lastUpdated>20200514130709</lastUpdated>
+    <lastUpdated>20200526131005</lastUpdated>
   </versioning>
 </metadata>
